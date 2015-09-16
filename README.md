@@ -7,9 +7,7 @@ A simple package to manually install a Shopify app from outside Shopify app stor
 
 #### Install package
 
-```
-meteor add cliffers:shopify-app-installer
-```
+_(Incomplete fork of cliffers:shopify-app-installer)_
 
 #### Use package
 
